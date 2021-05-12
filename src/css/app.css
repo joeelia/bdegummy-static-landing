@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+   font-family: 'Gotham';
+   src: local('Gotham'), url('../font/Gotham-Font/Gotham-Black.otf');
+}
+@font-face {
+   font-family: 'Gotham';
+   src: local('Gotham'), url('../font/Gotham-Font/GothamMedium.ttf');
+}
+@font-face {
+   font-family: 'Gotham';
+   src: local('Gotham'), url('../font/Gotham-Font/Gotham-Bold.otf');
+}
+@font-face {
+   font-family: 'Gotham';
+   src: local('Gotham'), url('../font/Gotham-Font/Gotham-BookItalic.otf');
+}
+@font-face {
+   font-family: 'Gotham';
+   src: local('Gotham'), url('../font/Gotham-Font/Gotham-Light.otf');
+}
+@font-face {
+   font-family: 'Gotham';
+   src: local('Gotham'), url('../font/Gotham-Font/Gotham-Thin.otf');
+}
+@font-face {
+   font-family: 'Gotham';
+   src: local('Gotham'), url('../font/Gotham-Font/GothamBook.ttf');
+}
